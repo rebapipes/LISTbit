@@ -54,11 +54,12 @@
         }
       };
       $.post("/tasks", payload).success(function(data) {
-        var htmlString = taskHtml(data);
-        var ulTodos = $('.todo-list');
-        ulTodos.append(htmlString);
-        $('.toggle').click(toggleTask);
-      });
+      var htmlString = taskHtml(data);
+      var ulTodos = $('.todo-list');
+      ulTodos.append(htmlString);
+      $('.toggle').click(toggleTask);
+      $('.new-todo').val('');
     });
-
   });
+
+});
