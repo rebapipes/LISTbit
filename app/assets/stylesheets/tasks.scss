@@ -46,7 +46,7 @@ input[type="checkbox"] {
   background: #fff;
   margin: 130px 0 40px 0;
   position: relative;
-  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2),
+  box-shadow: 0 2px 4px 0 #b83f45,
               0 25px 50px 0 rgba(0, 0, 0, 0.1);
 }
 
@@ -75,7 +75,7 @@ input[type="checkbox"] {
   font-size: 100px;
   font-weight: 100;
   text-align: center;
-  color: rgba(175, 47, 47, 0.15);
+  color: #b83f45;
   -webkit-text-rendering: optimizeLegibility;
   -moz-text-rendering: optimizeLegibility;
   text-rendering: optimizeLegibility;
@@ -204,7 +204,7 @@ label[for='toggle-all'] {
 }
 
 .todo-list li.completed label {
-  color: #d9d9d9;
+  color: #cc9a9a7a;
   text-decoration: line-through;
 }
 
