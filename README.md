@@ -1,24 +1,43 @@
-# README
+# LISTbit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+LISTbit is a single-page to-do application, featuring a fluid user interface that –by using JavaScript– allows users to rapidly add dynamic content.
 
-Things you may want to cover:
+![](LISTbit_checked.png)
+![](LISTbit_landing.png)
+![](LISTbit_unchecked.png)
+![](LISTbit_zoomed.png)
 
-* Ruby version
 
-* System dependencies
+## Getting Started
 
-* Configuration
+Built using Ruby on Rails and JavaScript
 
-* Database creation
+## Deployment
 
-* Database initialization
+Deployed using Heroku (https://www.heroku.com)
 
-* How to run the test suite
+## Testing
 
-* Services (job queues, cache servers, search engines, etc.)
+Please use Heroku link for testing and viewing purposes (see below)
 
-* Deployment instructions
+## Built With
 
-* ...
+* Ruby on Rails
+* JavaScript
+* MVC Framework
+
+## Meta
+
+Reba Pipes
+
+Email: pipes.reba@gmail.com
+
+LinkedIn: (https://linkedin.com/in/rebapipes)
+
+GitHub: (https://github.com/rebapipes/LISTbit)
+
+Heroku: (https://listbit-reba-pipes.herokuapp.com)
+
+Portfolio: (https://rebapipes.netlify.com)
+
+Medium Blog: (https://medium.com/@rebapipes) 
